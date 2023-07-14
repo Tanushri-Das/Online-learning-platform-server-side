@@ -1,0 +1,150 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "title": "A computer network is a system in which multiple computers are connected to each other to share information and resources.",
+      "image_url": "https://m.media-amazon.com/images/I/5120ZXLRzeL._AC_UF1000,1000_QL80_.jpg",     
+      "details": "A computer networking is a process of connecting two more than two computers with the purpose to share data, provide technical support, and to communicate (especially for the business purpose. Internet is the technology that is used to connect different computer systems (located in different geographic location). Networking technology has revolutionized the world and created a new arena for the overall development of every nation.Computer networking refers to interconnected computing devices that can exchange data and share resources with each other. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies"
+
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "02",
+      "video": "https://youtu.be/hhSTf2xF3wQ",
+      "total_view": 488,
+      "title": "A data structure is a named location that can be used to store and organize data.",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://m.media-amazon.com/images/I/61KBExHOcRL.jpg",
+      "details": "Learning data structures and algorithms allow us to write efficient and optimized computer programs.If you learn,you Write optimized and scalable code,Once you have knowledge about different data structures and algorithms, you can determine which data structure and algorithm to choose in various conditions.Effective use of time and memory,Having knowledge about data structures and algorithms will help you write codes that run faster and require less storage.And Better job opportunities,Data structures and algorithms questions are frequently asked in job interviews of various organizations including Google, Facebook, and so on.The 5 key data structures are - Array Data Structure. In an array, elements in memory are arranged in continuous memory.Stack Data Structure. In stack data structure, elements are stored in the LIFO principle.Queue Data Structure.Linked List Data Structure."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "03",
+      "video": "https://youtu.be/hhSTf2xF3wQ",
+      "total_view": 400,
+      "title": "Discrete mathematics is a branch of mathematics concerned with the study of objects that can be represented finitely (or countably).",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4471-4069-6",
+      "details": "Discrete Mathematics is a branch of mathematics involving discrete elements that uses algebra and arithmetic. It is increasingly being applied in the practical fields of mathematics and computer science. It is a very good tool for improving reasoning and problem-solving capabilities.It encompasses a wide array of topics that can be used to answer many tangible questions that arise in everyday life:Logic,Number theory,Counting,Probability,Recurrences,Graph theory.At the most fundamental level, all of a computer’s data is represented as bits (zeros and ones). Computers make calculations by modifying these bits in accordance with the laws of Boolean algebra, which form the basis of all digital circuits (which are represented as graphs). Low-level programming languages rely directly on logical operators such as and, not, and or. Software developers using high-level languages will often work to optimize their code by minimizing the number of low-level operations, and may even operate directly on bits. Programmers also use Boolean logic to control program flow -- that is, which instructions are executed under certain conditions."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "A database management system (DBMS) is system software for creating and managing databases.",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://m.media-amazon.com/images/I/712XlaVQ8OL.jpg",
+      "details":"A database management system (DBMS) is system software for creating and managing databases. A DBMS makes it possible for end users to create, protect, read, update and delete data in a database. The most prevalent type of data management platform, the DBMS essentially serves as an interface between databases and users or application programs, ensuring that data is consistently organized and remains easily accessible. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery.The DBMS provides a centralized view of data that can be accessed by multiple users from multiple locations in a controlled manner. A DBMS can limit what data end users see and how they view the data, providing many views of a single database schema. End users and software programs are free from having to understand where the data is physically located or on what type of storage medium it resides because the DBMS handles all requests."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://martcost.com/wp-content/uploads/2021/02/Operating-Systems.jpg",
+      "details": "An operating system acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs conveniently and efficiently. An operating system is a program that controls the execution of application programs and acts as an interface between the user of a computer and the computer hardware.An operating system is a software that manages computer hardware. The hardware must provide appropriate mechanisms to ensure the correct operation of the computer system and to prevent user programs from interfering with the proper operation of the system.An operating system is concerned with the allocation of resources and services, such as memory, processors, devices, and information. The operating system correspondingly includes programs to manage these resources, such as a traffic controller, a scheduler, a memory management module, I/O programs, and a file system."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "course_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "An assembly language is the most basic programming language available for any processor.",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4757-2858-3",
+      "details": "An assembly language is a low-level programming language for microprocessors and other programmable devices. It is not just a single language, but rather a group of languages. An assembly language implements a symbolic representation of the machine code needed to program a given CPU architecture.With assembly language, a programmer works only with operations that are implemented directly on the physical CPU.Assembly languages generally lack high-level conveniences such as variables and functions, and they are not portable between various families of processors.A microprocessor is a computer processor where the data processing logic and control is included on a single integrated circuit, or a small number of integrated circuits. The microprocessor contains the arithmetic, logic, and control circuitry required to perform the functions of a computer's central processing unit.Interfacing is of two types, memory interfacing and I/O interfacing. Memory Interfacing. When we are executing any instruction, we need the microprocessor to access the memory for reading instruction codes and the data stored in the memory.The interfacing process includes some key factors to match with the memory requirements and microprocessor signals."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated.",
+      "author": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-5404-2",
+      "details": "OOP stands for Object-Oriented Programming.Object-oriented programming is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields, and code, in the form of procedures. A common feature of objects is that procedures are attached to them and can access and modify the object's data fields. It also includes ideas of inheritance of attributes and methods. It is a technique based on a mathematical discipline, called “abstract data types,” for storing data with the procedures needed to process that data. OOP offers the potential to evolve programming to a higher level of abstraction.OOP provides a clear structure for the programs.Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions.OOP provides a clear structure for the programs.OOP makes it possible to create full reusable applications with less code and shorter development time"
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "08",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems.",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://m.media-amazon.com/images/I/61DybGXZIUL._AC_UF1000,1000_QL80_.jpg",
+      "details": " Computer design is concerned with the determination of what hardware should be used and how the parts should be connected.The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships.Computer Architecture discusses the computer hardware components, their organization and architecture, the way the hardware components operate and the way they are connected together to form the computer system. Computer design is concerned with the hardware design of the computer.Computer Architecture is a functional description of requirements and design implementation for the various parts of a computer.This aspect of computer hardware is sometimes referred to as computer implementation. Computer architecture is concerned with the structure and behavior of the computer as seen by the user. It includes the information formats, the instruction set and techniques for addressing memory. The architectural design of a computer system is concerned with the specifications of the various functional modules, such as processors and memories and structuring them together into a computer system."
+    }
+
+  ]
